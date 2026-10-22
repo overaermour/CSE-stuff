@@ -5,3 +5,5 @@ Open index.html in a web browser to study six topics, flashcards, checkpoints an
 For a single-file version, use the separately provided CSE1100-Study-Studio.html.
 
 Based on the syllabus topics supplied by the user; not an official university examination. Progress is saved locally in the browser where supported.
+
+also avalable va git pages https://overaermour.github.io/CSE-stuff/#home
